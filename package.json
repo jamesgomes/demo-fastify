@@ -1,0 +1,23 @@
+{
+  "name": "demo-fastify",
+  "version": "1.0.0",
+  "description": "Demo Fastify é um projeto para demonstrar o uso do pacote Fastify na criação de servidores web em Node.js. Ele inclui um exemplo simples de como criar rotas, autenticar usuários com JWT e processar solicitações HTTP.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesgomes/demo-fastify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesgomes/demo-fastify/issues"
+  },
+  "homepage": "https://github.com/jamesgomes/demo-fastify#readme",
+  "dependencies": {
+    "fastify": "^4.17.0",
+    "fastify-plugin": "^4.5.0"
+  }
+}
